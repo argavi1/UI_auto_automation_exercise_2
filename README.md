@@ -4,6 +4,11 @@
 
 This repository contains UI automation scripts written in JavaScript using Cypress for the website [automationexercise.com](https://automationexercise.com).
 
+## Prerequisites
+
+- Node.js and npm installed on your machine.
+- Ensure that the website automationexercise.com is accessible.
+
 ## Dependencies
 
 - [cypress/browserify-preprocessor](https://www.npmjs.com/package/cypress/browserify-preprocessor)
@@ -33,4 +38,5 @@ This repository contains UI automation scripts written in JavaScript using Cypre
 
 1. **Install Dependencies:**
    ```bash
-   npm install
+   npm cypress open
+   npm cypress run
