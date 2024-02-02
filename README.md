@@ -19,15 +19,15 @@ This repository contains UI automation scripts written in JavaScript using Cypre
 
 ## Test Scenarios
 
-1. **Successful Sending Email:**
+1. **Successful Sending Email**
 
-2. **Successful Login:**
+2. **Successful Login**
 
-3. **Successful Search Product:**
+3. **Successful Search Product**
 
-4. **Search Product & Add to Cart:**
+4. **Search Product & Add to Cart**
 
-5. **Successful Register with Random Email:**
+5. **Successful Register with Random Email**
 
 ## How to Run
 
